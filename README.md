@@ -1,3 +1,3 @@
 ### 📫 Contact / Links
-- 📹 YT: https://www.youtube.com/@midly
 - 💻 Discord: midly
+- 📹 YouTube: https://www.youtube.com/@midly
