@@ -1,3 +1,2 @@
----
 ### 📫 Contact / Links
 - 💻 Discord: midly
