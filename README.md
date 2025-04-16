@@ -1,1 +1,10 @@
-### <a href="https://github.com/JorianWoltjer#:~:text=JorianWoltjer,profile%20guide.">Hello, w̵̡̽o̴͕̓r̵̟̫̾͝l̴̖̽̑͐d̴̪̀̃͘!</a>
+# Midly
+
+I enjoy low-level projects, working with memory, and building tools that interact directly with games.
+
+---
+
+### 📫 Contact / Links
+- 💻 Discord: [midly]
+
+Thanks for stopping by!
